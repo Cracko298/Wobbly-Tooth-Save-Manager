@@ -19,3 +19,4 @@ A simple Batch-Script CLU/CLI that can manage Multiple Save-Files of Wobbly Toot
 # Planned Updates:
 - Add Vampire Slayer Steam/PC Backups/Injects.
 - Add Backing-Up of Games, and Configuration Files.
+- Add Save-Data Conversion between Switch & Steam/PC Games.
