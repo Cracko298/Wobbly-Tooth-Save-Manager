@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-    <img width="384" height="216" src="1jojVVCOMkX9Wyrexe4hGfO0aTS8F5UEGSk2ZwCWEPoBQRwX580acp46E5JwtcuAUGihYIdMY5iiF4R8VL1VsgqjKMP4xHWXZzCwBQbhZRC5gLkuSWvOd-transformed.png" alt="Wpbbly Tooth Save Manager.">
+    <img width="216" height="216" src="1jojVVCOMkX9Wyrexe4hGfO0aTS8F5UEGSk2ZwCWEPoBQRwX580acp46E5JwtcuAUGihYIdMY5iiF4R8VL1VsgqjKMP4xHWXZzCwBQbhZRC5gLkuSWvOd-transformed.png" alt="Wpbbly Tooth Save Manager.">
 </p>
 
 
