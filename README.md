@@ -1,7 +1,7 @@
-![1jojVVCOMkX9Wyrexe4hGfO0aTS8F5UEGSk2ZwCWEPoBQRwX580acp46E5JwtcuAUGihYIdMY5iiF4R8VL1VsgqjKMP4xHWXZzCwBQbhZRC5gLkuSWvOd-transformed](https://user-images.githubusercontent.com/78656905/213845814-270961cd-879e-41ed-9339-bc83372809b4.png)
-
-
-
+<p align="center">
+ <p align="center">
+    <img width="384" height="216" src="1jojVVCOMkX9Wyrexe4hGfO0aTS8F5UEGSk2ZwCWEPoBQRwX580acp46E5JwtcuAUGihYIdMY5iiF4R8VL1VsgqjKMP4xHWXZzCwBQbhZRC5gLkuSWvOd-transformed.png" alt="Wpbbly Tooth Save Manager.">
+</p>
 
 
 
