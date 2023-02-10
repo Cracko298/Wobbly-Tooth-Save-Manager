@@ -14,7 +14,7 @@ A simple Batch-Script CLU/CLI that can manage Multiple Save-Files of Wobbly Toot
 - Inject Steam/YuZu Game Save-Data.
 
 # Downloads:
-- [Download v1.1](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.1-release-1/Wobbly-Tooth-Save-Manager.zip)
+- [Download v1.1](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.2-release-1/Wobbly-Tooth-Save-Manager.zip)
 
 
 
