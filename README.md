@@ -7,7 +7,7 @@
 - A simple Batch-Script that can manage Multiple Save-Files of Wobbly Tooth Ltd's Games.
 
 ## Features:
-- Manage most (if not all) current Wobbly Tooth Ltd's Games.
+- Manage all Wobbly Tooth Ltd's Games' released on Steam, and Switch (YuZu Emulator).
 
 ## Downloads:
 - [Download v1.3](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.3-release-1/Wobbly-Tooth-Save-Manager.zip)
