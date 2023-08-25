@@ -13,11 +13,11 @@
 - [Download v1.3](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.3-release-1/Wobbly-Tooth-Save-Manager.zip)
 
 ## Supported Games:
-- **Ice Station Z ([Switch](https://www.nintendo.com/store/products/ice-station-z-switch/)/[PC](https://store.steampowered.com/app/1795180)).**
-- **The Casebook of Arkady Smith ([Switch](https://www.nintendo.com/store/products/the-casebook-of-arkady-smith-switch/)/[PC](https://store.steampowered.com/app/1260840)).**
-- **Vampire Slayer: The Resurrection ([Switch](https://www.nintendo.com/store/products/vampire-slayer-the-resurrection-switch/)/[PC](https://store.steampowered.com/app/2188960)).**
-- **Toy Stunt Bike: Tip Tops' Trials ([Switch](https://www.nintendo.com/store/products/toy-stunt-bike-tiptops-trials-switch/)).**
-- **Eventide ([PC](https://store.steampowered.com/app/2435930)).**
+- **Ice Station Z** ([Switch](https://www.nintendo.com/store/products/ice-station-z-switch/)/[PC](https://store.steampowered.com/app/1795180)).
+- **The Casebook of Arkady Smith** ([Switch](https://www.nintendo.com/store/products/the-casebook-of-arkady-smith-switch/)/[PC](https://store.steampowered.com/app/1260840)).
+- **Vampire Slayer: The Resurrection** ([Switch](https://www.nintendo.com/store/products/vampire-slayer-the-resurrection-switch/)/[PC](https://store.steampowered.com/app/2188960)).
+- **Toy Stunt Bike: Tip Tops' Trials** ([Switch](https://www.nintendo.com/store/products/toy-stunt-bike-tiptops-trials-switch/)).
+- **Eventide** ([PC](https://store.steampowered.com/app/2435930)).
 
 ### Planned Updates:
 - Add Citra Backups/Injects.
