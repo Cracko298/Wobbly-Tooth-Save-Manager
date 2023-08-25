@@ -8,7 +8,7 @@
 - Manage all Wobbly Tooth Ltd's Games' released on Steam, and Switch (YuZu Emulator).
 
 ## Downloads:
-- [Download v1.3](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.3-release-1/Wobbly-Tooth-Save-Manager.zip)
+- Download The Latest Version [Here](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.3-release-1/Wobbly-Tooth-Save-Manager.zip).
 
 ## Supported Games:
 - **Ice Station Z** ([Switch](https://www.nintendo.com/store/products/ice-station-z-switch/)/[PC](https://store.steampowered.com/app/1795180)).
