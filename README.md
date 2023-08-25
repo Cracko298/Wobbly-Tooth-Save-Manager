@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-    <img width="360" height="220" src="https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/blob/main/Untitled%20drawing.png" alt="Wobbly Tooth Save Manager.">
+    <img width="220" height="220" src="https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/blob/main/Untitled%20drawing.png" alt="Wobbly Tooth Save Manager.">
 </p>
 
 # Wobbly-Tooth-Save-Manager
